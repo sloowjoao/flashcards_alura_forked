@@ -1,23 +1,63 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'conhecimentos gerais',
+    'quem pintou a monaliza?',
+    'Leonardo da Vinci'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital da Espanha?',
+    'Madri'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'historia',
+    'Quem descobriu o Brasil?',
+    'Pedro Álvares Cabral'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz tchau em Inglês?',
+    'Tchau em ingles é Bye'
+)
+criaCartao(
+    'esportes',
+    'como se marca pontos no footebol?',
+    'chute a bola ao gol'
+)
+criaCartao(
+    'filmes',
+    'quem matou o thanos no filme vingadores: ultimato',
+    'Thor'
+)
+criaCartao(
+    'conhecimentos gerais',
+    'quando aconteceu a segunda guerra mundial?',
+    '1 de setembro de 1939 – 2 de setembro de 1945'
+)
+criaCartao(
+    'jogos',
+    'quando foi criado o LOL',
+    '2009'
+)
+criaCartao(
+    'esportes',
+    'como se chama o jogador que fica no gol do futebool?',
+    'goleiro'
+)
+criaCartao(
+    'quimica',
+    'qual é a formula da água?',
+    'H2o'
+)
+criaCartao(
+    'matematica',
+    'quanto é 26 + 14',
+    '40'
+)
+criaCartao(
+    'filmes',
+    'qual é o nome do heroi que se veste de morcego',
+    'batman'
 )
